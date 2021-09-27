@@ -10,7 +10,7 @@
 :mailbox_with_mail:   :   ry2403@columbia.edu
 
 
-————Deep Dive in NYC————
+
 
 <!--
 **Alvayang923/Alvayang923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
