@@ -1,13 +1,13 @@
-### Hi There!
-
-
-
-
-🌱   :   DS 0-1
-
-
-
+# Hi there! This is Renfang Yang
 :mailbox_with_mail:   :   ry2403@columbia.edu
+
+<a href="https://github.com//Alvayang923">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alvayang923&show_icons=true&include_all_commits=true" />
+</a>
+
+
+
+
 
 
 
